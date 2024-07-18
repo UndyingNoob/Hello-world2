@@ -1,5 +1,5 @@
 # Hello-world2 Readme
-## *Public Repository of UndyingNoob*
+## *Public Repository of Rainworld*
 ### aka: *Alex Smith*
 I have a semi-active project on the go in **RPGM(MZ)**, and another for **Unreal Engine** in the works.
 ---
